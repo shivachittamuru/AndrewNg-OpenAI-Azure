@@ -2,3 +2,5 @@ python-dotenv
 openai
 langchain
 tenacity
+redlines
+panel
