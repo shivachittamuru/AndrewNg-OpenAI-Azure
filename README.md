@@ -2,6 +2,6 @@ The notebooks found in this repo are from short coures on Generative AI by Andre
 
 ## Prerequisites:
 
-conda create --name aoai-env
-conda activate aoai-env
-pip install -r requirements.txt 
+@ conda create --name aoai-env
+@ conda activate aoai-env
+@ pip install -r requirements.txt 
