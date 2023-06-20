@@ -4,3 +4,6 @@ langchain
 tenacity
 redlines
 panel
+tiktoken
+docx2txt
+streamlit
