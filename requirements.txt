@@ -7,3 +7,4 @@ panel
 tiktoken
 docx2txt
 streamlit
+scikit-learn
