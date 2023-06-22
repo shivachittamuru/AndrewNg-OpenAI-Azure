@@ -4,6 +4,7 @@ langchain
 tenacity
 redlines
 panel
+jupyter_bokeh
 tiktoken
 docx2txt
 streamlit
