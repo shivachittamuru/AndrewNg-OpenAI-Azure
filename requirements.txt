@@ -8,4 +8,5 @@ jupyter_bokeh
 tiktoken
 docx2txt
 streamlit
+streamlit-chat
 scikit-learn
