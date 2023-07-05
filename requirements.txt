@@ -1,3 +1,7 @@
+azure-search-documents==11.4.0b3
+azure-ai-formrecognizer==3.2.1
+azure-storage-blob==12.16.0
+azure-identity==1.13.0b4
 python-dotenv
 openai
 langchain
@@ -11,3 +15,6 @@ streamlit
 streamlit-chat
 scikit-learn
 bs4
+pinecone-client
+wikipedia
+pypdf
