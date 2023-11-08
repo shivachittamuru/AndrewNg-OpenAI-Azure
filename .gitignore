@@ -1,6 +1,6 @@
 data/
 .env
-env.bak/
+.env.bak
 env/
 ENV/
 __pycache__/
