@@ -18,3 +18,5 @@ bs4
 pinecone-client
 wikipedia
 pypdf
+yt_dlp
+pydub
